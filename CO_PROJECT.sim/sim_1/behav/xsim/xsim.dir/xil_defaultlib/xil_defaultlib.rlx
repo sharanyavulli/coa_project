@@ -1,0 +1,23 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sim_1/imports/co_project/testbench.v,1744454654,verilog,,,,testbench,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/ALU.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/ALU_Mux.v,,ALU,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/ALU_Mux.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/ALU_decoder.v,,ALU_Mux,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/ALU_decoder.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Control_Unit.v,,ALU_Decoder,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Control_Unit.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Core_Datapath.v,,Control_Unit,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Core_Datapath.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Data_Memory.v,,Core_Datapath,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Data_Memory.v,1744454876,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Extend.v,,Data_Memory,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Extend.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Instruction_Memory.v,,Extend,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Instruction_Memory.v,1744449683,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Main_Decoder.v,,Instruction_Memory,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Main_Decoder.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/PC.v,,Main_Decoder,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/PC.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/PC_Mux.v,,PC,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/PC_Mux.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/PC_Plus_4.v,,PC_Mux,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/PC_Plus_4.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/PC_Target.v,,PC_Plus_4,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/PC_Target.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Register_File.v,,PC_Target,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Register_File.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Result_Mux.v,,Register_File,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Result_Mux.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Single_Cycle_Core.v,,Result_Mux,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Single_Cycle_Core.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Single_Cycle_Top.v,,Single_Cycle_Core,,,,,,,,
+C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sources_1/imports/co_project/Single_Cycle_Top.v,1685709343,verilog,,C:/Users/omdag/CO_PROJECT/CO_PROJECT.srcs/sim_1/imports/co_project/testbench.v,,Single_Cycle_Top,,,,,,,,

@@ -1,0 +1,26 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/ALU.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/ALU_Mux.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/ALU_decoder.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/Control_Unit.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/Core_Datapath.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/Data_Memory.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/Extend.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/Instruction_Memory.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/Main_Decoder.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/PC.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/PC_Mux.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/PC_Plus_4.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/PC_Target.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/Register_File.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/Result_Mux.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/Single_Cycle_Core.v" \
+"../../../../CO_PROJECT.srcs/sources_1/imports/co_project/Single_Cycle_Top.v" \
+"../../../../CO_PROJECT.srcs/sim_1/imports/co_project/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
